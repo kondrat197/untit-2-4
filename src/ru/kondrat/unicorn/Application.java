@@ -1,9 +1,9 @@
-package ru.kondrat.unicorn;
+package src.ru.kondrat.unicorn;
 
 public class Application {
 
     public static void main(String[] args) {
-        System.out.print("Привет. world!");
+        System.out.print("Привет. bfcfcbc!");
     }
 
 }
